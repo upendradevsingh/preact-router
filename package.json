@@ -1,0 +1,35 @@
+{
+  "name": "preact-router",
+  "version": "0.0.1",
+  "description": "Preactt router",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upendradevsingh/preact-router.git"
+  },
+  "keywords": [
+    "preact",
+    "react",
+    "router",
+    "preact-router",
+    "simple-preact-router",
+    "express-based-path"
+  ],
+  "author": "Upendra Dev Singh <upendradevsingh@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upendradevsingh/preact-router/issues"
+  },
+  "homepage": "https://github.com/upendradevsingh/preact-router#readme",
+  "dependencies": {
+    "history": "^4.7.2",
+    "path-to-regexp": "^2.1.0",
+    "preact": "^8.2.7"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
