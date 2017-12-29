@@ -2,7 +2,7 @@
   "name": "preact-router",
   "version": "0.0.1",
   "description": "Preactt router",
-  "main": "index.js",
+  "main": "./Router/index.js",
   "scripts": {
     "test": "jest"
   },
